@@ -48,7 +48,7 @@ admins:
 ```
 保存为~/efb2w/blueset.telegram/config.yaml
 
-`docker run --name=efb2w -v ~/efb2w/blueset.telegram/:/root/.ehforwarderbot/profiles/default/blueset.telegram/ lzyyauto/efb2w`
+`docker run --name=efb2w -v ~/efb2w/blueset.telegram/:/root/.ehforwarderbot/profiles/default/blueset.telegram/ docker pull hyperopia/wechat-telegram-evan`
 
 扫描登录即可.enjoy
 
